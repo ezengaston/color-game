@@ -1,0 +1,17 @@
+{
+  "name": "colorGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.0",    
+    "parcel-bundler": "^1.12.5"
+  }
+}
